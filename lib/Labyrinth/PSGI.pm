@@ -3,7 +3,7 @@ package Labyrinth::PSGI;
 use warnings;
 use strict;
 
-our $VERSION = '1.01';
+our $VERSION = '1.02';
 
 use Labyrinth;
 use Labyrinth::Variables;
@@ -97,8 +97,8 @@ run() method.
 
 =head1 SEE ALSO
 
-  CGI::PSGI
-  Labyrinth
+L<CGI::PSGI>,
+L<Labyrinth>
 
 =head1 AUTHOR
 

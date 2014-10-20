@@ -3,7 +3,7 @@ package Labyrinth::Query::PSGI;
 use warnings;
 use strict;
 
-our $VERSION = '1.01';
+our $VERSION = '1.02';
 
 =head1 NAME
 
@@ -44,8 +44,8 @@ __END__
 
 =head1 SEE ALSO
 
-  CGI::PSGI,
-  Labyrinth
+L<CGI::PSGI>,
+L<Labyrinth>
 
 =head1 AUTHOR
 
